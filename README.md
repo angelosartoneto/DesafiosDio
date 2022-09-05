@@ -1,2 +1,3 @@
 # DesafiosDio
-Aprimorando conhecimentos em C# e .Net
+
+- [x] Aprimorando meus conhecimentos em C# e .Net
