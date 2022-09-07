@@ -14,7 +14,7 @@ A saída consiste na multiplicação do produto dos dígitos ( n ), a soma de se
 
 Entrada | Saída
 :-------:|:------:
-  234   |   15
+  4421   |   15
 
 ##### **EXPLICAÇÃO:**
 
