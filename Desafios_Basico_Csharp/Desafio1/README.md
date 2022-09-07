@@ -14,11 +14,12 @@ A saída consiste na multiplicação do produto dos dígitos ( n ), a soma de se
 
 Entrada | Saída
 :-------:|:------:
-  234   |   15
+  4421   |   21
 
-##### **EXPLICAÇÃO:**
+##### EXPLICAÇÃO:
 
-##### **PRODUTO DE DÍGITOS = ** 4 * 4 * 2 * 1 = 32
-##### **SOMA DE DÍGITOS = ** 4 + 4 + 2 + 1 = 11
-##### **RESULTADO = ** 32 - 11 = 21
-##### **RESTRIÇÕES:** * 1 <= n <= 10^5 
+##### PRODUTO DE DÍGITOS = 4 * 4 * 2 * 1 = 32
+##### SOMA DE DÍGITOS = 4 + 4 + 2 + 1 = 11
+##### RESULTADO = 32 - 11 = 21
+##### RESTRIÇÕES: 
+* 1 <= n <= 10^5 
