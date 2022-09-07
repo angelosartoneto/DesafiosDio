@@ -18,7 +18,8 @@ Entrada | Saída
 
 ##### **EXPLICAÇÃO:**
 
-##### **PRODUTO DE DÍGITOS = ** 4 * 4 * 2 * 1 = 32
-##### **SOMA DE DÍGITOS = ** 4 + 4 + 2 + 1 = 11
-##### **RESULTADO = ** 32 - 11 = 21
-##### **RESTRIÇÕES:** * 1 <= n <= 10^5 
+##### PRODUTO DE DÍGITOS = 4 * 4 * 2 * 1 = 32
+##### SOMA DE DÍGITOS = 4 + 4 + 2 + 1 = 11
+##### RESULTADO = 32 - 11 = 21
+##### RESTRIÇÕES: 
+* 1 <= n <= 10^5 
